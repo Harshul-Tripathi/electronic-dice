@@ -15,9 +15,9 @@ A custom fully analog Electronic Dice PCB designed in KiCad using discrete logic
 
 ## Files
 
-- `dice kicad.zip` — KiCad project files
-- `Electronic_Dice_Design_Notes.pdf` — Circuit and design documentation
-- `Electronic_Dice_PCB_Layout.png` — PCB layout
+- `dice kicad.zip` — Complete KiCad project files
+- `Electronic_Dice_Gerbers.zip` — Gerber files for PCB fabrication
+- `design notes.pdf` — Circuit and design documentation
 
 ## Credits
 
